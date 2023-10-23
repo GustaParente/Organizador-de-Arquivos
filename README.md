@@ -7,7 +7,7 @@ Após a realização da organização, o script pergunta ao usuário se ele quer
 
 -- Para baixar e usar o programa é simples: Clique no botão verde "<> Code" logo acima no canto superior direito;
 
--- Em seguida clique em "Download Zip";
+-- Em seguida clique em "Download ZIP";
 
 -- Após ter feito o download, extraia o conteúdo do winrar em qualquer pasta do seu computador;
 
