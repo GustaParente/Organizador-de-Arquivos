@@ -1,0 +1,5 @@
+Para organizar os arquivos é muito simples:
+
+- Execute o arquivo Organizador.exe
+- Selecione a pasta que deseja organizar
+- FIM
