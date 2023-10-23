@@ -5,4 +5,7 @@ Após a pasta ter sido selecionada, o script vai identificar quais são os tipos
 De acordo com o formato de cada tipo, o script vai criar pastas unitárias, e realocar esses arquivos de acordo com a categoria que eles pertencem. Bem direto ao ponto.
 Após a realização da organização, o script pergunta ao usuário se ele quer organizar alguma outra pasta, se a resposta for positiva, o processo é re-executado e o usuário pode escolher outra pasta. Se a resposta for negativa o script se encerra.
 
--- O arquivo executável (.exe) está disponível neste repositório, sendo necessário apenas baixá-lo e executá-lo.
+-- Para baixar e usar o programa é simples: Clique no botão verde "<> Code" logo acima no canto superior direito;
+-- Em seguida clique em "Download Zip";
+-- Após ter feito o download, extraia o conteúdo do winrar em qualquer pasta do seu computador;
+-- Execute o arquivo "Organizador.exe" e pronto, organize qualquer pasta que quiser!
